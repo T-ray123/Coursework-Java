@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"swing.scc110cw1","l":"Board"},{"p":"swing.scc110cw1","l":"Main"},{"p":"swing.scc110cw1","l":"PlayerColor"},{"p":"swing.scc110cw1","l":"Square"},{"p":"swing.scc110cw1","l":"SquareValue"}]
